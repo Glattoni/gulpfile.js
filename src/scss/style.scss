@@ -1,0 +1,10 @@
+@import 'fonts';
+@import 'global';
+@import 'tweaks';
+@import 'variables';
+@import './mixins/font-face';
+@import './vendor/normalize';
+// start of the components
+@import './components/header';
+@import './components/footer';
+// end of the components
